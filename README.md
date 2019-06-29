@@ -9,4 +9,4 @@ Untuk soal no 7 :
  - database MySQL
  - dijalankan dengan mengakses index.php
  - screenshoot:
-![Screenshot](screenshot.png)
+![Screenshot](screenshot1.png)
