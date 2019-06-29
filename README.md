@@ -9,4 +9,6 @@ Untuk soal no 7 :
  - database MySQL
  - dijalankan dengan mengakses index.php
  - screenshoot:
-![](/screenshot1.png)
+<img src="img/screenshoot1.png">
+<img src="img/screenshoot2.png">
+<img src="img/screenshoot3.png">
